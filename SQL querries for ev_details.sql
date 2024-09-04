@@ -286,7 +286,5 @@ These questions cover a wide range of topics including aggregation, filtering, g
 
 
 
-select * from ev_detail
-
 
  
